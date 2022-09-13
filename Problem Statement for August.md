@@ -1,11 +1,12 @@
-#The Fools Who Dream
+# The Fools Who Dream
 
 My ant used to live in Paris. But now, he lives in La La Land, because of lower rents. 
 There's only one disadvantage in living there: traveling in La La Land is a nightmare.
 
-La La Land is a rectangular grid with dimensions r\times cr×c (rr rows, cc columns). 
+La La Land is a rectangular grid with dimensions 'r x c' ('r' rows, 'c' columns). 
 Each cell can only have one of three colors: black, red, and white. 
 And as you know, ants are colored either black or red. 
+
 But because the mayor of La La Land is a bit crazy, he requires every walking ant in La La Land to follow these rules:
 
 - A walking ant must always be facing in one of the four cardinal directions: north, south, east and west.
@@ -39,14 +40,14 @@ to give us new colors to see.
 Who knows where it will lead us?
 And that's why they need us."
 
-##Input
+## Input
 The first line contains TT, the number of test cases. The following lines describe the test cases.
 
 The first line of each test case contains four space-separated integers rr, cc, |B|∣B∣ and |R|∣R∣, where |B|∣B∣ and |R|∣R∣ denote the sizes of BB and RR, respectively.
 Each of the next |B|∣B∣ lines contains two space-separated integers ii and jj denoting that the cell at row ii and column jj is in BB.
 Each of the next |R|∣R∣ lines contains two space-separated integers ii and jj denoting that the cell at row ii and column jj is in RR.
 
-##Output
+## Output
 For each test case, first output a single line containing either POSSIBLE (if it is possible) or FOOLISH (if it is impossible). 
 In addition, if it is possible, you need to output at least one valid coloring. 
 
