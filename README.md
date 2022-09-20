@@ -11,7 +11,7 @@ Some things to remember before submitting your response:
 ## Code Formate
 The code will be judged on these criteria:
 1. Clean code
-2. Commits 
+2. Comments
 3. Readability and ease-of-understandability
 4. Execution speed
 5. Uniqueness
