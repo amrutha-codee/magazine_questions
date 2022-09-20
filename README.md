@@ -8,6 +8,7 @@ Some things to remember before submitting your response:
 - The name of your file should be in the formate '_firstname_lastname_'
 - Do be honest and submit your approach to the code, __not a copy from the net__.
 
+## Code Formate
 The code will be judged on these criteria:
 1. Clean code
 2. Commits 
